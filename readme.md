@@ -1,8 +1,16 @@
-## para instalar os pacotes 
-`npm i`
+# Testes e2e com Cypress na versão 10
 
-## Para rodar os testes no terminal
-### `npx cypress run`
+### install the packages 
+```
+npm i
+```
 
-## Para abrir algum navegador e visualizar os teste
-### `npm run test`
+### run the tests in the terminal
+```
+ npx cypress run
+```
+
+### open a browser and view the tests
+```
+npm run test
+```
