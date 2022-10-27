@@ -1,0 +1,23 @@
+[
+    {
+        "email": "lucas-teste@alura.com.br",
+        "fullName": "Lucas Santos",
+        "userName": "lucazhSS",
+        "password": "123654"
+
+    },
+    {
+        "email": "vera_brenda_gomes@moyageorges.com.br",
+        "fullName": "Vera Brenda Gomes",
+        "userName": "VeraBG",
+        "password": "abc123"
+
+    },
+    {
+        "email": "fernandomartinassis@gabiaatelier.com.br",
+        "fullName": "Fernando Martin Rodrigo Assis",
+        "userName": "FernandoMRA",
+        "password": "g2345"
+
+    }
+]
