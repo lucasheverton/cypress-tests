@@ -4,7 +4,7 @@
   "description": "Primeiro projeto com cypress",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test:open": "npx cypress open"
   },
   "author": "Lucas Heverton",
   "license": "ISC",

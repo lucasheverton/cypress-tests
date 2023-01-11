@@ -16,6 +16,7 @@ module.exports = defineConfig({
     }
   },
   e2e: {
-    baseUrl: 'http://alura-fotos.herokuapp.com'
+    //baseUrl: 'http://alura-fotos.herokuapp.com/#/home'
+    //baseUrl: 'https://github.com/login'
   },
 });
