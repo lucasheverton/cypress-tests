@@ -1,8 +1,8 @@
-# Testes e2e com Cypress na versão 10
+# e2e tests with Cypress in version 10
 
 ## To login to the platforms, it is necessary:
 
-- **create a cypress.env.json file with**
+- **Create a cypress.env.json file with**
 ```
 {
   "userName": "insert",
@@ -10,22 +10,25 @@
 } 
 ```
 
-- **choose base url in cypress.config.js e2e object**
+- **Choose base url in cypress.config.js e2e object**
 
-### install the packages 
+<hr/>
+
+### Install the packages 
 ```
 npm i
 ```
 
-### run the tests in the terminal
+### Run the tests in the terminal
 ```
  npx cypress run
 ```
 
-### open a browser and view the tests
+### Open a browser and view the tests
 ```
 npm run test:open
 ```
+or
 ```
 yarn test:open
 ```
